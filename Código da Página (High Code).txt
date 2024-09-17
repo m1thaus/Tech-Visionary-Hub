@@ -1,0 +1,16 @@
+Criar as estruturas
+Quantas e quais páginas vão ter
+
+Menu -> (código) DBA
+{
+Sobre nós (molduraviva)
+	Artistas {
+## Informações do artistas ##
+## Aprofundamento e curiosidades ##
+	{ Obras -> Shop Now
+		Séries -> Shop Now
+}
+## Informações de contato ##
+	Agenda (Exposições)
+	Contato
+}
